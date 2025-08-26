@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
-# Minimax-TicTacToe
+# 🚀 Minimax-TicTacToe
 TicTacToe-Minimax  A Tic-Tac-Toe implementation featuring an AI opponent using the Minimax algorithm. This project demonstrates the fundamental concepts of game theory and artificial intelligence decision-making
 ## 🚧 Project Status: In Development
 
